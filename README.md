@@ -1,7 +1,7 @@
 <h1>Hola, Soy Yampier Ponce</h1>
 <p></p>Profesional de TI con más de 3 años de experiencia en operaciones y soporte de infraestructura, trabajando con servidores Linux, despliegue de aplicaciones y monitoreo de sistemas en entornos productivos.</p>
 
-<p>Experiencia en troubleshooting, administración de servicios y soporte a plataformas tecnológicas. He participado en la gestión de servidores, resolución de incidentes y soporte a aplicaciones empresariales.</p>>
+<p>Experiencia en troubleshooting, administración de servicios y soporte a plataformas tecnológicas. He participado en la gestión de servidores, resolución de incidentes y soporte a aplicaciones empresariales.</p>
 
 <p>Actualmente enfocado en fortalecer habilidades en Docker, Cloud Computing y prácticas DevOps para la automatización y despliegue eficiente de aplicaciones.</p>
 
