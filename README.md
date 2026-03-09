@@ -1,18 +1,20 @@
 <h1>Hola, Soy Yampier Ponce</h1>
-<p>De profesión Técnico de Sistemas con más de 3 años de experiencia en TI, enfocado en seguridad informática, redes y gestión de servidores. Durante el último año, he trabajado en proyectos de backend, aplicando mis conocimientos en desarrollo y administración de sistemas. Experto en la resolución de problemas, con habilidades en comunicación efectiva y colaboración en equipo. Comprometido con la eficiencia y seguridad en los sistemas informáticos, busco continuamente nuevos desafíos que contribuyan al éxito organizacional mediante la implementación de soluciones tecnológicas escalables y seguras.</p>
+<p></p>Profesional de TI con más de 3 años de experiencia en operaciones y soporte de infraestructura, trabajando con servidores Linux, despliegue de aplicaciones y monitoreo de sistemas en entornos productivos.</p>
+
+<p>Experiencia en troubleshooting, administración de servicios y soporte a plataformas tecnológicas. He participado en la gestión de servidores, resolución de incidentes y soporte a aplicaciones empresariales.</p>>
+
+<p>Actualmente enfocado en fortalecer habilidades en Docker, Cloud Computing y prácticas DevOps para la automatización y despliegue eficiente de aplicaciones.</p>
+
+<p>Interesado en roles relacionados con Linux Infrastructure, Cloud Operations y DevOps.</p>
 
 ## 🚀 Lenguajes y herramientas:
 
 
 
 [![Python](https://img.shields.io/badge/-Python-ffde57?style=for-the-badge&labelColor=black&logo=python&logoColor=4584b6)](#)
-[![Django](https://img.shields.io/badge/-Django-092E20?style=for-the-badge&labelColor=black&logo=django&logoColor=092E20)](#)
 [![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&labelColor=black&logo=postgresql&logoColor=336791)](#)
 [![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&labelColor=black&logo=mysql&logoColor=4479A1)](#)
 [![MongoDB](https://img.shields.io/badge/-MongoDB-4CAF50?style=for-the-badge&labelColor=black&logo=mongodb&logoColor=4CAF50)](#)
-[![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&labelColor=black&logo=node.js&logoColor=339933)](#)
-[![Express](https://img.shields.io/badge/-Express-000000?style=for-the-badge&labelColor=black&logo=express&logoColor=white)](#)
-[![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F7DF1E)](#)
 [![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&labelColor=black&logo=linux&logoColor=FCC624)](#)
 [![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=for-the-badge&labelColor=black&logo=gnu-bash&logoColor=4EAA25)](#)
 [![Git](https://img.shields.io/badge/-Git-f34f29?style=for-the-badge&labelColor=black&logo=git&logoColor=f34f29)](#)
