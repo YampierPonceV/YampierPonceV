@@ -9,17 +9,8 @@ Actualmente me desempeño como System Administrator, participando activamente en
 <p>🌐 Servidores Web & Aplicaciones: Nginx, JBoss, Node.js. </p>
 <p>📊 Bases de Datos: PostgreSQL, MSSQL Server, MySQL. </p>
 <p>🛠️ Monitoreo & ITSM: Dynatrace, ServiceNow, Git.</p>
-## 🚀 Lenguajes y herramientas:
 
-
-
-[![Python](https://img.shields.io/badge/-Python-ffde57?style=for-the-badge&labelColor=black&logo=python&logoColor=4584b6)](#)
-[![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&labelColor=black&logo=postgresql&logoColor=336791)](#)
-[![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&labelColor=black&logo=mysql&logoColor=4479A1)](#)
-[![MongoDB](https://img.shields.io/badge/-MongoDB-4CAF50?style=for-the-badge&labelColor=black&logo=mongodb&logoColor=4CAF50)](#)
-[![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&labelColor=black&logo=linux&logoColor=FCC624)](#)
-[![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=for-the-badge&labelColor=black&logo=gnu-bash&logoColor=4EAA25)](#)
-[![Git](https://img.shields.io/badge/-Git-f34f29?style=for-the-badge&labelColor=black&logo=git&logoColor=f34f29)](#)
+<h3>🚀 Lenguajes y herramientas:</h3> 
 
 ### 🛠️ Cloud & Containers
 ![AWS](https://img.shields.io/badge/AWS-%23232F3E.svg?style=flat&logo=amazon-aws&logoColor=white)
