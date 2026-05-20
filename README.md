@@ -1,12 +1,14 @@
 <h1>Hola, Soy Yampier Ponce</h1>
-<p></p>Profesional de TI con más de 3 años de experiencia en operaciones y soporte de infraestructura, trabajando con servidores Linux, despliegue de aplicaciones y monitoreo de sistemas en entornos productivos.</p>
+<p></p>Profesional de TI con más de 3 años de experiencia administrando infraestructura crítica Linux, operaciones de servidores y optimización de plataformas en entornos productivos empresariales. Especializado en troubleshooting profundo, automatización mediante scripting avanzado (Bash y Python) y gestión de bases de datos relacionales.
+Actualmente me desempeño como System Administrator, participando activamente en la migración de arquitecturas hacia la nube (AWS / OCI) y adoptando la cultura DevOps mediante la implementación de contenedores y flujos ágiles.</p>
 
-<p>Experiencia en troubleshooting, administración de servicios y soporte a plataformas tecnológicas. He participado en la gestión de servidores, resolución de incidentes y soporte a aplicaciones empresariales.</p>
-
-<p>Actualmente enfocado en fortalecer habilidades en Docker, Cloud Computing y prácticas DevOps para la automatización y despliegue eficiente de aplicaciones.</p>
-
-<p>Interesado en roles relacionados con Linux Infrastructure, Cloud Operations y DevOps.</p>
-
+<h4>Core Técnico: </h4>
+<p>🐧 Sistemas: Linux (RHEL, Ubuntu, CentOS) y Windows Server. </p>
+<p>☁️ Cloud & Containers: AWS, Oracle Cloud Infrastructure (OCI), Docker, Docker Compose. </p>
+<p>🤖 Automatización: Bash Scripting, Python, automatización de tareas e infraestructura. </p>
+<p>🌐 Servidores Web & Aplicaciones: Nginx, JBoss, Node.js. </p>
+<p>📊 Bases de Datos: PostgreSQL, MSSQL Server, MySQL. </p>
+<p>🛠️ Monitoreo & ITSM: Dynatrace, ServiceNow, Git.</p>
 ## 🚀 Lenguajes y herramientas:
 
 
