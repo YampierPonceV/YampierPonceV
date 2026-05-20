@@ -10,6 +10,7 @@ Actualmente me desempeño como System Administrator, participando activamente en
 <p>📊 Bases de Datos: PostgreSQL, MSSQL Server, MySQL. </p>
 <p>🛠️ Monitoreo & ITSM: Dynatrace, ServiceNow, Git.</p>
 
+<br>
 <h3>🚀 Lenguajes y herramientas:</h3> 
 
 ### 🛠️ Cloud & Containers
@@ -37,17 +38,16 @@ Actualmente me desempeño como System Administrator, participando activamente en
 
 <br/>
 
-## Contactame por:
+## 📬 Contáctame por:
 
-<p align="left">
-    <a href="https://www.linkedin.com/in/yampierponcev/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png" width="40"/></a>
-    <a href="https://twitter.com/YampierPonceV"><img src="https://img.icons8.com/color/48/000000/twitter--v1.png" width="40"/></a>
-</p>
-
-
-## 🟣 Vistas y seguidores
-
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=YampierPonceV&color=blue&style=flat-square">
+<a href="https://www.linkedin.com/in/yampierponcev/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
-<a href="https://github.com/YampierPonceV?tab=followers"><img src="https://img.shields.io/github/followers/YampierPonceV?label=Followers&style=blue" alt="GitHub Badge"></a>
+<a href="mailto:developer.yampier@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+
+
+## 📊 Estadísticas del Perfil
+
+<img src="https://komarev.com/ghpvc/?username=YampierPonceV&color=blue&style=flat-square" alt="Contador de Visitas" />  <img src="https://img.shields.io/github/followers/YampierPonceV?label=Seguidores&style=flat-square&color=blue" alt="Seguidores en GitHub" />
